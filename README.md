@@ -1,3 +1,5 @@
+[Plasmic project](https://studio.plasmic.app/projects/2RDhVZaGASfXhyUnkTAygx/-/Homepage?arena_type=page&arena=7q78KMkXdkVZ) 
+
 This is a Next.js project bootstrapped with [`create-plasmic-app`](https://www.npmjs.com/package/create-plasmic-app).
 
 ## Getting Started
